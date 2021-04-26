@@ -1,0 +1,29 @@
+.jumbotron {
+  height: 800px;
+  text-align: center;
+  background-image: url("../img/mountain.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-blend-mode: multiply;
+  background-color: rgba(60, 60, 60, 0.9);
+}
+
+.self-container {margin-top: 240px;}
+
+.projects {text-align: center;}
+
+.sales {text-align: center;}
+
+.sales-color {color: #a01731;}
+
+.txt {text-align: center;}
+
+footer {
+  height: 800px;
+  text-align: center;
+  background-image: url("../img/it.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-blend-mode: multiply;
+  background-color: rgba(60, 60, 60, 0.9);
+}
